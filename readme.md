@@ -29,9 +29,9 @@
 <a href="https://www.r-project.org/about.html"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://https://www.linkedin.com/in/mukesh-keswani-b60801180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-keswani-b60801180" height="30" width="40" /></a>
-<a href="https://https://www.facebook.com/mukesh.keswani.661/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh.keswani.661" height="30" width="40" /></a>
-<a href="https://www.instagram.com/keswani_mk_10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the._.rahul_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukesh-keswani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-keswani" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mukesh.keswani.661/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh.keswani.661" height="30" width="40" /></a>
+<a href="https://www.instagram.com/keswani_mk_10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="keswani_mk_10" height="30" width="40" /></a>
 </p>
 
 
