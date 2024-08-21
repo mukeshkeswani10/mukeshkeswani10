@@ -4,9 +4,9 @@
 
 ## About Me:
 
-- 🎓 I have pursued my BBA(CA) from Indira College Of Commerce & Science, India.
-- 💻 I'm currently learning Web Development.
-- 🤝 I'm looking to collaborate on Web Development.
+- 🎓 I have pursued my BCA from Indira College Of Commerce & Science, India.
+- 💻 I'm currently learning Data Science and Cloud Computing.
+- 🤝 I'm looking to collaborate on Cloud or as an Data Analyst .
 
 
 ##  Hobbies:
