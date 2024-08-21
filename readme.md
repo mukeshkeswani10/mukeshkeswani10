@@ -4,7 +4,7 @@
 
 ## About Me:
 
-- 🎓 I'm currently pursuing BBA(CA) from Indira College Of Commerce & Science, India.
+- 🎓 I have pursued my BBA(CA) from Indira College Of Commerce & Science, India.
 - 💻 I'm currently learning Web Development.
 - 🤝 I'm looking to collaborate on Web Development.
 
