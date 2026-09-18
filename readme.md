@@ -1,38 +1,149 @@
-### <h1> Hello, World!👋 I'm Mukesh Keswani 👱‍ </h1>
+# 👋 Hi, I'm Mukesh Keswani
 
-<img align='right' alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" height="320" />
+### Application & Cloud Support | API & Integration | Python Automation | SQL | Airline Technology
 
-## About Me:
+I'm an **Application & Cloud Support professional with 4 years of experience at Accelya**, working with API-driven applications and airline/travel technology platforms.
 
-- 🎓 I have pursued my BCA from Indira College Of Commerce & Science, India.
-- 💻 I'm currently learning Data Science and Cloud Computing.
-- 🤝 I'm looking to collaborate on Cloud or as an Data Analyst .
+I enjoy troubleshooting complex production issues, analyzing API and XML flows, investigating root causes, automating repetitive operational tasks, and collaborating with QA and development teams to improve application reliability.
 
+---
 
-##  Hobbies:
+## 🚀 About Me
 
-- Drawing🎨
-- Handcraft🎐
-- Music🎶
-- Playing Cricket🏏 Kabbadi🏃‍♂ Badminton🏸
-- Travelling🧳
+* 💼 **4 years of experience** in Application & Cloud Support
+* ✈️ Working in the **Airline / GDS / Travel Technology** domain
+* 🔍 Experienced in **API troubleshooting, incident investigation & root-cause analysis**
+* 🔗 Hands-on with **REST APIs, XML, integration flows & data validation**
+* 🧪 Support **functional, regression, UAT & release validation**
+* 🐍 Build **Python automation** for operational and data-validation workflows
+* 🗄️ Use **SQL** for transaction analysis, data validation and troubleshooting
+* 📊 Experience with **Datadog, Kibana, AppDynamics & OpenSearch**
+* ☁️ Exposure to **AWS, Docker & cloud-hosted applications**
+* 🤝 Collaborate with **QA, Development, Cloud Engineering and SysAdmin teams**
+* 🤖 Exploring **AI/GenAI, automation and AI-assisted engineering workflows**
 
+---
 
+## 🛠️ Technical Skills
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://findicons.com/files/icons/1007/crystal_like/128/java.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/about.html"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
+### API & Integration
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mukesh-keswani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-keswani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mukesh.keswani.661/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh.keswani.661" height="30" width="40" /></a>
-<a href="https://www.instagram.com/keswani_mk_10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="keswani_mk_10" height="30" width="40" /></a>
+`REST APIs` `API Troubleshooting` `Request/Response Analysis` `XML` `Integration Testing` `Data Validation`
+
+### Testing & Quality
+
+`Functional Testing` `Regression Testing` `UAT Support` `Defect Reproduction` `Release Validation` `Production Verification`
+
+### Programming & Automation
+
+`Python` `SQL` `Excel`
+
+### Observability & Monitoring
+
+`Datadog` `Kibana` `AppDynamics` `OpenSearch`
+
+### Cloud & Platforms
+
+`AWS` `Docker` `Cloud Applications`
+
+### Tools
+
+`Jira` `Confluence` `Power BI` `Git` `GitLab`
+
+---
+
+## 💻 What I Work On
+
+```text
+API Request
+     ↓
+Integration / Application Flow
+     ↓
+Logs & Observability
+     ↓
+Data / SQL Validation
+     ↓
+Root Cause Analysis
+     ↓
+Fix Validation
+     ↓
+Production Verification
+```
+
+My day-to-day work involves investigating issues across these layers and working with different technical teams to identify and resolve problems.
+
+---
+
+## ✈️ Domain Experience
+
+**Airline & Travel Technology**
+
+* NDC / API-based airline integrations
+* Airline reservation and order workflows
+* GDS / agency integrations
+* AirShopping and Offer flows
+* Order creation and servicing workflows
+* Production incident investigation
+* API and transaction-level troubleshooting
+
+---
+
+## 🤖 Automation & AI
+
+I'm interested in using **Python, AI and GenAI tools** to improve engineering and support workflows.
+
+Current areas of interest:
+
+* 🔄 Operational workflow automation
+* 📄 XML / API data analysis
+* 🔎 Log and incident analysis
+* 📊 Data validation
+* 🤖 AI-assisted troubleshooting
+* ☁️ Cloud & automation
+* 🧠 Generative AI and AI agents
+
+---
+
+## 🎓 Education
+
+**Master's Degree** — Pursuing
+
+**Bachelor of Computer Applications (BCA)**
+Indira College of Commerce and Science, Pune
+2019 – 2022
+
+---
+
+## 📜 Certifications & Learning
+
+* API
+* SQL
+* Power BI
+* Cyber Security
+* Google Analytics
+* AWS / Cloud fundamentals
+* Generative AI & Prompt Engineering
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mukesh-keswani/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
+
+---
+
+### ⚡ A little more about me
+
+When I'm not troubleshooting APIs or analyzing logs, I enjoy **drawing, music, travelling and playing cricket, kabaddi and badminton**.
+
+---
+
+⭐ *Always learning. Always building. Always looking for ways to automate and improve.*
+
 
 
 
