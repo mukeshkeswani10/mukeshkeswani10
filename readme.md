@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mukesh Keswani
-
+<img align="right" alt="Funny Developer GIF"
+     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tla2FxNzBrNWlhZXMydDBvZG9tZ3libzE4amxxZm1idGh1M2RxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehw7lcf9szJJfJKGSJ/giphy.gif"
+     width="400" />
 ### Application & Cloud Support | API & Integration | Python Automation | SQL | Airline Technology
 
 I'm an **Application & Cloud Support professional with 4 years of experience at Accelya**, working with API-driven applications and airline/travel technology platforms.
