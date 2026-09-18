@@ -6,60 +6,60 @@
 
 I'm an **Application & Cloud Support professional with 4 years of experience at Accelya**, working with API-driven applications and airline/travel technology.
 
-🔍 API & Production Troubleshooting
-🐍 Python Automation
-🗄️ SQL & Data Validation
-☁️ Cloud & Application Support
-✈️ Airline / GDS / Travel Technology
+🔍 API & Production Troubleshooting  
+🐍 Python Automation  
+🗄️ SQL & Data Validation  
+☁️ Cloud & Application Support  
+✈️ Airline / GDS / Travel Technology  
 🤖 AI, GenAI & Automation
 
 ---
 
 ## 🚀 About Me
 
-* 💼 **4 years of professional experience** in Application & Cloud Support
-* ✈️ Experience in the **Airline / GDS / Travel Technology** domain
-* 🔍 Hands-on experience in **API troubleshooting, incident investigation & root-cause analysis**
-* 🔗 Experienced with **REST APIs, XML, NDC integrations & transaction flows**
+* 💼 **4 years of experience** in Application & Cloud Support
+* ✈️ Working in the **Airline / GDS / Travel Technology** domain
+* 🔍 Experienced in **API troubleshooting, incident investigation & root-cause analysis**
+* 🔗 Hands-on with **REST APIs, XML, integration flows & data validation**
 * 🧪 Support **functional, regression, UAT & release validation**
 * 🐍 Build **Python automation** for operational and data-validation workflows
 * 🗄️ Use **SQL** for transaction analysis, data validation and troubleshooting
-* 📊 Work with **Datadog, Kibana, AppDynamics & OpenSearch**
-* ☁️ Experience with **AWS, Docker & cloud-hosted applications**
-* 🤝 Collaborate with **QA, Development, Cloud Engineering & SysAdmin teams**
-* 🤖 Exploring **AI/GenAI, automation & AI-assisted engineering**
+* 📊 Experience with **Datadog, Kibana, AppDynamics & OpenSearch**
+* ☁️ Exposure to **AWS, Docker & cloud-hosted applications**
+* 🤝 Collaborate with **QA, Development, Cloud Engineering and SysAdmin teams**
+* 🤖 Exploring **AI/GenAI, automation and AI-assisted engineering workflows**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔗 API & Integration
+### API & Integration
 
-`REST APIs` `NDC` `API Troubleshooting` `Request/Response Analysis` `XML` `Integration Testing` `Data Validation`
+`REST APIs` `API Troubleshooting` `Request/Response Analysis` `XML` `Integration Testing` `Data Validation`
 
-### 🧪 Testing & Quality
+### Testing & Quality
 
 `Functional Testing` `Regression Testing` `UAT Support` `Defect Reproduction` `Release Validation` `Production Verification`
 
-### 🐍 Programming & Automation
+### Programming & Automation
 
 `Python` `SQL` `Excel`
 
-### 📊 Observability & Monitoring
+### Observability & Monitoring
 
 `Datadog` `Kibana` `AppDynamics` `OpenSearch`
 
-### ☁️ Cloud & Platforms
+### Cloud & Platforms
 
 `AWS` `Docker` `Cloud Applications`
 
-### 🔧 Tools
+### Tools
 
-`Git` `GitLab` `Jira` `Confluence` `Power BI`
+`Jira` `Confluence` `Power BI` `Git` `GitLab`
 
 ---
 
-## 💻 How I Troubleshoot
+## 💻 What I Work On
 
 ```text
 API Request
@@ -68,7 +68,7 @@ Integration / Application Flow
      ↓
 Logs & Observability
      ↓
-SQL / Data Validation
+Data / SQL Validation
      ↓
 Root Cause Analysis
      ↓
@@ -77,38 +77,37 @@ Fix Validation
 Production Verification
 ```
 
-I work across application, API, data and infrastructure layers to investigate issues, identify root causes and validate fixes.
+My day-to-day work involves investigating issues across these layers and working with different technical teams to identify and resolve problems.
 
 ---
 
-## ✈️ Airline & Travel Technology
+## ✈️ Domain Experience
 
-My professional experience includes working with **airline and travel technology platforms**, including API-driven and NDC-based integrations.
+**Airline & Travel Technology**
 
-* ✈️ NDC / API-based airline integrations
-* 🔗 GDS / agency integrations
-* 🛫 AirShopping & Offer workflows
-* 📦 Order creation and servicing workflows
-* 🔄 Order change / reshop workflows
-* 🔍 Transaction-level troubleshooting
-* 🚨 Production incident investigation
-* 🧪 End-to-end API flow validation
+* NDC / API-based airline integrations
+* Airline reservation and order workflows
+* GDS / agency integrations
+* AirShopping and Offer flows
+* Order creation and servicing workflows
+* Production incident investigation
+* API and transaction-level troubleshooting
 
 ---
 
 ## 🤖 Automation & AI
 
-I'm interested in using **Python, AI and GenAI** to make technical support and engineering workflows more efficient.
+I'm interested in using **Python, AI and GenAI tools** to improve engineering and support workflows.
 
 Current areas of interest:
 
 * 🔄 Operational workflow automation
 * 📄 XML / API data analysis
-* 🔎 Log & incident analysis
-* 📊 Automated data validation
+* 🔎 Log and incident analysis
+* 📊 Data validation
 * 🤖 AI-assisted troubleshooting
-* ☁️ Cloud automation
-* 🧠 Generative AI & AI agents
+* ☁️ Cloud & automation
+* 🧠 Generative AI and AI agents
 
 ---
 
@@ -124,22 +123,22 @@ Indira College of Commerce and Science, Pune
 
 ## 📜 Certifications & Learning
 
-* ☁️ AWS / Cloud Fundamentals
-* 🤖 Generative AI & Prompt Engineering
-* 🔐 Cyber Security
-* 📊 Power BI
-* 🗄️ SQL
-* 🔗 API Technologies
-* 📈 Google Analytics
+* API
+* SQL
+* Power BI
+* Cyber Security
+* Google Analytics
+* AWS / Cloud fundamentals
+* Generative AI & Prompt Engineering
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mukesh-keswani-24651b250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/mukesh-keswani/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
@@ -151,3 +150,4 @@ When I'm not troubleshooting APIs or analyzing logs, I enjoy **drawing, music, t
 ---
 
 ⭐ *Always learning. Always building. Always looking for ways to automate and improve.*
+
