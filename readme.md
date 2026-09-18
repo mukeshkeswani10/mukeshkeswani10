@@ -2,12 +2,16 @@
 <img align="right" alt="Funny Developer GIF"
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tla2FxNzBrNWlhZXMydDBvZG9tZ3libzE4amxxZm1idGh1M2RxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehw7lcf9szJJfJKGSJ/giphy.gif"
      width="400" />
-### Application & Cloud Support | API & Integration | Python Automation | SQL | Airline Technology
+### 💻 Application & Cloud Support | API & Integration | Python | SQL
 
-I'm an **Application & Cloud Support professional with 4 years of experience at Accelya**, working with API-driven applications and airline/travel technology platforms.
+I'm an **Application & Cloud Support professional with 4 years of experience at Accelya**, working with API-driven applications and airline/travel technology.
 
-I enjoy troubleshooting complex production issues, analyzing API and XML flows, investigating root causes, automating repetitive operational tasks, and collaborating with QA and development teams to improve application reliability.
-
+🔍 API & Production Troubleshooting  
+🐍 Python Automation  
+🗄️ SQL & Data Validation  
+☁️ Cloud & Application Support  
+✈️ Airline / GDS / Travel Technology  
+🤖 AI, GenAI & Automation
 ---
 
 ## 🚀 About Me
