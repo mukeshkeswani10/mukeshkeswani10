@@ -136,7 +136,7 @@ Indira College of Commerce and Science, Pune
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mukesh-keswani/" target="_blank">
+<a href="https://www.linkedin.com/in/mukesh-keswani-24651b250?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
